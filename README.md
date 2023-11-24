@@ -18,6 +18,8 @@ Skills: REACT / JS / NODE JS / EXPRESS / MONGODB / FIREBASE / HTML / CSS / TAILW
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=md-habibullah)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=md-habibullah)](https://github.com/md-habibullah/github-readme-stats)
+
 
 
 ![MD Habibullah's GitHub stats](https://github-readme-stats.vercel.app/api?username=md-habibullah&show_icons=true&bg_color=00000000)
