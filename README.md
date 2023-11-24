@@ -1,4 +1,4 @@
-## Hi there, my gorgeous friends 👋
+## Hi there,  my gorgeous friends👋 <br/>
 #### I'm Md. Habibullah, a Full Junior Web Developer from  Bangladesh. I Spend most of time coding outstanding projects.
 i,m reading at Rangpur Polytechnic Institute
 
@@ -16,10 +16,6 @@ Skills: REACT / JS / NODE JS / EXPRESS / MONGODB / FIREBASE / HTML / CSS / TAILW
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=md-habibullah)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=md-habibullah&show_icons=true)  
-
-![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/md-habibullah/contributions?format=svg&private=false)  
-
-![GitHub metrics](https://metrics.lecoq.io/md-habibullah)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=md-habibullah)  
 
