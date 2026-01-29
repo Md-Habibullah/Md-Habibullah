@@ -2,10 +2,26 @@
 
 # Md. Habibullah
 **Full-Stack Web Developer | Next.js, Express, Prisma | Web Applications**
+<p align="left">
+  <a href="https://linkedin.com/in/md-habibullah1">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="mailto:mdhabibullah.work@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=flat&logo=gmail" alt="Email" />
+  </a>
+  <a href="https://github.com/md-habibullah">
+    <img src="https://img.shields.io/badge/GitHub-Portfolio-black?style=flat&logo=github" alt="GitHub" />
+  </a>
+</p>
 
-I’m a full-stack web developer focused on building scalable, reliable, and maintainable web applications. I work across frontend and backend systems, with experience designing role-based architectures, secure authentication flows, and production-ready APIs.
+---
 
-I have over three years of hands-on coding experience and have delivered industry-standard projects using both NoSQL and relational databases. I enjoy working on well-structured systems and writing clean, maintainable code that scales with product needs.
+## 🚀 **About Me**
+
+**Passionate Full-Stack Developer** specializing in building **scalable, reliable, and maintainable web applications**. With **3+ years** of hands-on experience, I architect **role-based systems**, implement **secure authentication flows**, and develop **production-ready APIs** that drive real-world impact.
+
+I thrive on creating **well-structured systems** and writing **clean, maintainable code** that evolves with product demands, working with both **NoSQL and relational databases** to deliver industry-standard solutions.
+
 
 ---
 
