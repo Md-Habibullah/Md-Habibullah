@@ -117,8 +117,45 @@ A comprehensive logistics platform with advanced security, real-time tracking, a
 
 ---
 
-## 🌍 Open to Collaboration
-I’m open to collaborating on meaningful projects, contributing to open-source initiatives, and working on real-world web applications that solve practical problems.
+## 🤝 **Open to Collaboration**
+
+<div align="center">
+
+### **Let's Build Something Amazing Together!**
+
+I'm actively seeking opportunities to collaborate on:
+
+**🚀 Meaningful Projects** | **🌐 Open-Source Initiatives** | **💡 Real-World Solutions**
+:---:|:---:|:---:
+Production applications | Community contributions | Practical problem-solving
+Innovative web platforms | Developer tools & libraries | Scalable architectures
+Tech for social impact | Documentation & guides | Performance optimization
+
+</div>
+
+### **Collaboration Interests**
+<p align="center">
+  <img src="https://img.shields.io/badge/Full-Stack%20Projects-007ACC?style=for-the-badge&logo=code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Open%20Source-4CAF50?style=for-the-badge&logo=opensourceinitiative&logoColor=white" />
+  <img src="https://img.shields.io/badge/API%20Development-9C27B0?style=for-the-badge&logo=api&logoColor=white" />
+</p>
+
+**I'm passionate about:**  
+• Building **scalable web applications** with modern tech stacks  
+• Contributing to **developer tools** and **community projects**  
+• Solving **real-world problems** through innovative technology  
+• Mentoring **junior developers** and **knowledge sharing**
+
+---
+
+**💬 Have an interesting project or idea?**  
+Let's connect and discuss how we can create impactful solutions together!
+
+<p align="center">
+  <a href="mailto:mdhabibullah.work@gmail.com">
+    <img src="https://img.shields.io/badge/Get_In_Touch-FF5722?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
 
@@ -130,7 +167,7 @@ I’m open to collaborating on meaningful projects, contributing to open-source 
   
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/md-habibullah)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-habibullah1/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:habibullah15160@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mdhabibullah.work@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://habibdev.vercel.app)
 
 </div>
