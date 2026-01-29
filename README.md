@@ -80,8 +80,8 @@ A sophisticated platform connecting tourists with local guides, featuring intell
 
 > **Tech Stack:** Next.js, Express.js, Prisma, PostgreSQL, TypeScript  
 > **Key Features:** Role-based access, Secure payments, Real-time chat, Review system  
-> 🔗 **Repository:** [github.com/Md-Habibullah/local-eyes-client](https://github.com/Md-Habibullah/local-eyes-client)  
-> 🌐 **Live Demo:** [localeyesdb.vercel.app](https://localeyesdb.vercel.app/)
+> [![GitHub](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Md-Habibullah/local-eyes-client)
+> [![Live Demo](https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://localeyesdb.vercel.app/)
 
 <p align="left">
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs" />
@@ -98,8 +98,8 @@ A comprehensive logistics platform with advanced security, real-time tracking, a
 
 > **Tech Stack:** React, Redux, Express.js, Mongoose, TypeScript  
 > **Key Features:** Multi-role system, Real-time tracking, Payment integration, Admin dashboard  
-> 🔗 **Repository:** [github.com/Md-Habibullah/mama-parcel-client-b5a5](https://github.com/Md-Habibullah/mama-parcel-client-b5a5)  
-> 🌐 **Live Demo:** [mamaparcel.vercel.app](https://mamaparcel.vercel.app/)
+> [![GitHub](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Md-Habibullah/mama-parcel-client-b5a5)
+> [![Live Demo](https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://mamaparcel.vercel.app/)
 
 <p align="left">
   <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react" />
