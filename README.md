@@ -38,21 +38,21 @@ I have over three years of hands-on coding experience and have delivered industr
 
 ## 📌 Featured Projects
 
-### 🔹 Project One: Full-Stack Web Application (NoSQL)
-A production-ready full-stack application built with React and MongoDB, featuring secure authentication, role-based access control, and modular backend architecture.
-
-**Tech:** React, Node.js, Express, MongoDB  
-🔗 Repository: *(add link)*  
-🌐 Live Demo: *(add link if available)*  
-
----
-
-### 🔹 Project Two: Full-Stack Web Application (PostgreSQL)
+### 🔹 Project One: Full-Stack Web Application (PostgreSQL)
 A scalable web application built using Next.js and PostgreSQL, focusing on clean architecture, data integrity, and maintainable backend services.
 
 **Tech:** Next.js, Node.js, PostgreSQL, Prisma  
-🔗 Repository: *(add link)*  
-🌐 Live Demo: *(add link if available)*  
+🔗 Repository: *https://github.com/Md-Habibullah/local-eyes-client*  
+🌐 Live Demo: *https://localeyesdb.vercel.app/*  
+
+---
+
+### 🔹 Project Two: Full-Stack Web Application (NoSQL)
+A production-ready full-stack application built with React and MongoDB, featuring secure authentication, role-based access control, and modular backend architecture.
+
+**Tech:** React, Node.js, Express, MongoDB  
+🔗 Repository: *https://github.com/Md-Habibullah/mama-parcel-client-b5a5*  
+🌐 Live Demo: *https://mamaparcel.vercel.app/*  
 
 ---
 
