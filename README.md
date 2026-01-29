@@ -2,7 +2,20 @@
 
 # Md. Habibullah
 **Full-Stack Web Developer | Next.js, Express, Prisma | Web Applications**
-<p align="left"> <a href="https://linkedin.com/in/md-habibullah1"> <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" alt="LinkedIn" /> </a> <a href="mailto:mdhabibullah.work@gmail.com"> <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=flat&logo=gmail" alt="Email" /> </a> <a href="https://github.com/md-habibullah"> <img src="https://img.shields.io/badge/GitHub-Code-181717?style=flat&logo=github" alt="GitHub" /> </a> <a href="https://habibdev.vercel.app"> <img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=flat&logo=vercel" alt="Portfolio" /> </a> </p>
+<p align="left">
+  <a href="https://www.linkedin.com/in/md-habibullah1/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:mdhabibullah.work@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/md-habibullah" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://habibdev.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+</p>
 
 ---
 
