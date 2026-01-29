@@ -1,7 +1,7 @@
 ![habib](https://res.cloudinary.com/do8bidma8/image/upload/v1769677666/Black_and_White_Creative_Profile_Information_LinkedIn_Article_Cover_Image_4_meazea.png)
 
 # Md. Habibullah
-**Full-Stack Web Developer | MERN & PREN | Web Applications**
+**Full-Stack Web Developer | Next.js, Express, Prisma | Web Applications**
 
 I’m a full-stack web developer focused on building scalable, reliable, and maintainable web applications. I work across frontend and backend systems, with experience designing role-based architectures, secure authentication flows, and production-ready APIs.
 
