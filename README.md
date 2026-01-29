@@ -73,28 +73,41 @@ I thrive on creating **well-structured systems** and writing **clean, maintainab
 
 ---
 
-## 📌 Featured Projects
+## 📌 **Featured Projects**
 
-### 🔹 Project One: Full-Stack Web Application (PostgreSQL)
+### 🔹 **LocalEyes - Tour Guide Platform** *(PostgreSQL)*
 A sophisticated platform connecting tourists with local guides, featuring intelligent matching, secure booking, and community-driven reviews.
 
-This is a scalable web application built using Next.js and PostgreSQL, focusing on clean architecture, data integrity, and maintainable backend services.
+> **Tech Stack:** Next.js, Express.js, Prisma, PostgreSQL, TypeScript  
+> **Key Features:** Role-based access, Secure payments, Real-time chat, Review system  
+> 🔗 **Repository:** [github.com/Md-Habibullah/local-eyes-client](https://github.com/Md-Habibullah/local-eyes-client)  
+> 🌐 **Live Demo:** [localeyesdb.vercel.app](https://localeyesdb.vercel.app/)
 
-**Tech:** Next.js, Node.js, PostgreSQL, Prisma  
-🔗 Repository: *https://github.com/Md-Habibullah/local-eyes-client*  
-🌐 Live Demo: *https://localeyesdb.vercel.app/*  
+<p align="left">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs" />
+  <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express" />
+  <img src="https://img.shields.io/badge/Prisma-3982CE?style=flat&logo=prisma" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript" />
+</p>
 
 ---
 
-### 🔹 Project Two: Full-Stack Web Application (NoSQL)
+### 🔹 **MamaParcel - Logistics Platform** *(NoSQL)*
 A comprehensive logistics platform with advanced security, real-time tracking, and multi-vendor management system for parcel delivery services.
 
-This is a production-ready full-stack application built with React and MongoDB, featuring secure authentication, role-based access control, and modular backend architecture.
+> **Tech Stack:** React, Redux, Express.js, Mongoose, TypeScript  
+> **Key Features:** Multi-role system, Real-time tracking, Payment integration, Admin dashboard  
+> 🔗 **Repository:** [github.com/Md-Habibullah/mama-parcel-client-b5a5](https://github.com/Md-Habibullah/mama-parcel-client-b5a5)  
+> 🌐 **Live Demo:** [mamaparcel.vercel.app](https://mamaparcel.vercel.app/)
 
-**Tech:** React, Node.js, Express, MongoDB  
-🔗 Repository: *https://github.com/Md-Habibullah/mama-parcel-client-b5a5*  
-🌐 Live Demo: *https://mamaparcel.vercel.app/*  
-
+<p align="left">
+  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react" />
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux" />
+  <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express" />
+  <img src="https://img.shields.io/badge/Mongoose-880000?style=flat&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript" />
+</p>
 ---
 
 ## 📊 GitHub Stats
