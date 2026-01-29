@@ -28,11 +28,29 @@ I thrive on creating **well-structured systems** and writing **clean, maintainab
 
 ---
 
-## 🧠 Professional Summary
-- Full-stack development across MERN & PREN architectures  
-- Strong focus on backend systems, authentication, and role-based access control  
-- Experience building real-world, production-ready applications  
-- Comfortable working with modern tooling, deployment workflows, and testing practices  
+## 🎖️ **Professional Summary**
+
+**Full-Stack Developer** with **3+ years** of experience specializing in:
+
+- **Architecture**: MERN & PREN stack implementations
+- **Security**: Authentication, RBAC, and secure systems
+- **Backend**: Scalable API design and database optimization  
+- **Production**: Real-world application deployment and maintenance
+- **Tooling**: Modern development workflows and testing practices
+
+**Core Strengths**: Backend systems, security architecture, and building production-ready applications with emphasis on scalability and maintainability.
+
+---
+
+## 🎯 **Technical Expertise**
+
+### **Key Focus Areas**
+<p align="center">
+  <img src="https://img.shields.io/badge/Backend%20Engineering-⚙️-007ACC?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Security%20Systems-🔒-4CAF50?style=for-the-badge&logo=shield-check&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scalable%20APIs-📈-9C27B0?style=for-the-badge&logo=server&logoColor=white" />
+  <img src="https://img.shields.io/badge/Production%20Ready-🚀-FF9800?style=for-the-badge&logo=rocket&logoColor=white" />
+</p>
 
 ---
 
