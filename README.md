@@ -247,8 +247,6 @@ Let's connect and discuss how we can create impactful solutions together!
 
 ---
 
----
-
 ## 📫 **Connect With Me**
 
 <div align="center">
