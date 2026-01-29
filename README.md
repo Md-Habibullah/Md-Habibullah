@@ -111,6 +111,23 @@ A comprehensive logistics platform with advanced security, real-time tracking, a
 
 ---
 
+### 🔹 **Media Marvels - Movie Collection Platform** *(MERN + Firebase)*
+A comprehensive movie collection management and showcase platform with advanced filtering, user collections, and personalized recommendations.
+
+> **Tech Stack:** React, Express.js, MongoDB, Firebase  
+> **Key Features:** Movie collection management, Advanced filtering, User authentication, Responsive design  
+> [![GitHub](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Md-Habibullah/MediaMarvels-client)
+> [![Live Demo](https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://media-marvels.web.app/)
+
+<p align="left">
+  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react" />
+  <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" />
+</p>
+
+---
+
 ## 📊 **GitHub Analytics**
 
 <div align="center">
