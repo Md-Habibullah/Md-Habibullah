@@ -180,10 +180,10 @@ A comprehensive movie collection management and showcase platform with advanced 
 <div align="center">
 
 ### **Development Overview**
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=md-habibullah&show_icons=true&theme=default)
+![Habib's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=md-habibullah&show_icons=true&theme=transparent)
 
 ### **Top Technologies**
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=md-habibullah&layout=compact)
+![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=md-habibullah&exclude_repo=github-readme-stats,Pranesh-2005.github.io)
 
 ### **Contribution Streak**
 ![GitHub Streak](https://streak-stats.demolab.com/?user=md-habibullah)
