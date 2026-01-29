@@ -40,6 +40,7 @@ I have over three years of hands-on coding experience and have delivered industr
 
 ### 🔹 Project One: Full-Stack Web Application (PostgreSQL)
 A sophisticated platform connecting tourists with local guides, featuring intelligent matching, secure booking, and community-driven reviews.
+
 This is a scalable web application built using Next.js and PostgreSQL, focusing on clean architecture, data integrity, and maintainable backend services.
 
 **Tech:** Next.js, Node.js, PostgreSQL, Prisma  
@@ -50,6 +51,7 @@ This is a scalable web application built using Next.js and PostgreSQL, focusing 
 
 ### 🔹 Project Two: Full-Stack Web Application (NoSQL)
 A comprehensive logistics platform with advanced security, real-time tracking, and multi-vendor management system for parcel delivery services.
+
 This is a production-ready full-stack application built with React and MongoDB, featuring secure authentication, role-based access control, and modular backend architecture.
 
 **Tech:** React, Node.js, Express, MongoDB  
