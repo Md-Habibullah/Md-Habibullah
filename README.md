@@ -115,28 +115,23 @@ A comprehensive logistics platform with advanced security, real-time tracking, a
 
 <div align="center">
 
-### **Development Activity**
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=md-habibullah&show_icons=true&count_private=true&hide_title=true&hide_border=true&theme=radical&bg_color=0d1117&text_color=c9d1d9&icon_color=58a6ff)](https://github.com/md-habibullah)
+### **Development Overview**
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=md-habibullah&show_icons=true&theme=default)
 
-### **Most Used Languages**
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=md-habibullah&layout=compact&langs_count=8&hide_border=true&theme=radical&bg_color=0d1117&text_color=c9d1d9&title_color=58a6ff)](https://github.com/md-habibullah)
+### **Top Technologies**
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=md-habibullah&layout=compact)
 
 ### **Contribution Streak**
-[![GitHub Streak](https://streak-stats.demolab.com?user=md-habibullah&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=C9D1D9&sideLabels=C9D1D9&dates=8B949E)](https://git.io/streak-stats)
+![GitHub Streak](https://streak-stats.demolab.com/?user=md-habibullah)
 
 </div>
 
-### **Key Metrics**
+### **Profile Metrics**
 <p align="center">
-  <img src="https://img.shields.io/github/followers/md-habibullah?style=for-the-badge&label=Followers&color=0d1117&logo=github" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/md-habibullah?style=for-the-badge&label=Stars%20Earned&color=0d1117&logo=github" alt="Stars" />
-  <img src="https://img.shields.io/github/commit-activity/m/md-habibullah?style=for-the-badge&label=Monthly%20Commits&color=0d1117&logo=github" alt="Commit Activity" />
+  <img src="https://komarev.com/ghpvc/?username=md-habibullah&label=Profile%20Views&color=brightgreen" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/md-habibullah?label=GitHub%20Followers&color=blue" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/md-habibullah?label=Total%20Stars&color=yellow" alt="Stars" />
 </p>
-
-### **Recent Contributions**
-<!--START_SECTION:activity-->
-<!-- This section auto-updates with recent GitHub activity -->
-<!--END_SECTION:activity-->
 
 ---
 
